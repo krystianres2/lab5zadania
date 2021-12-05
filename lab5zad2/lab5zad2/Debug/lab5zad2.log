@@ -1,0 +1,4 @@
+﻿  lab5zad2.cpp
+C:\Users\kryst\source\repos\lab5zad2\lab5zad2\lab5zad2.cpp(14,7): warning C4101: "znaki": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\kryst\source\repos\lab5zad2\lab5zad2\lab5zad2.cpp(13,6): warning C4101: "liczby": lokalna zmienna, do której nie istnieje odwołanie
+  lab5zad2.vcxproj -> C:\Users\kryst\source\repos\lab5zad2\Debug\lab5zad2.exe
